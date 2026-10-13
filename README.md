@@ -1,4 +1,4 @@
-# 🤖 HYCSC Autobot
+# 🤖 Autobot
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-Audio_Stream-red?style=for-the-badge&logo=youtube&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**Bot Discord tùy chỉnh thế hệ mới dành riêng cho Câu lạc bộ HYCSC.**  
+**Bot Discord tùy chỉnh thế hệ mới.**  
 *Tích hợp thông báo thành viên thông minh & hệ thống phát nhạc đa nền tảng chất lượng cao.*
 
 </div>
